@@ -6,4 +6,6 @@ Microsoft Excel: Data Cleaning, Validation, and Pivot Table Analysis
 
 Power BI: Interactive Data Visualization and DAX Calculations
 
-SQL: Data Extraction and Structuring (Concept
+SQL: Data Extraction and Structuring (Concept)
+
+<img width="726" height="414" alt="Screenshot 2026-10-07 032556" src="https://github.com/user-attachments/assets/712a8949-3322-4392-b45b-0d7d0836b041" />
