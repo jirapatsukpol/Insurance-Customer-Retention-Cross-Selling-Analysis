@@ -1,0 +1,11 @@
+﻿Customer_ID,Age_Cleaned,Gender,Province,Policy_ID,Policy_Type,Premium,Policy_Status,Total_Claim_Amount,Loss_Ratio,Age_Group,Risk_Status
+1,28,M,Bangkok,101,Auto,15000,Lapsed,5000,0.33,21-30,Medium Risk
+2,35,F,Nonthaburi,102,Health,25000,Active,0,0,31-40,No Claim
+3,45,M,Chiang Mai,103,Auto,18000,Active,12000,0.67,41-50,Medium Risk
+4,35,F,Bangkok,104,Life,30000,Active,0,0,31-40,No Claim
+5,50,M,Phuket,105,Auto,14000,Lapsed,20000,1.43,41-50,High Risk (Loss)
+6,29,F,Bangkok,106,Health,22000,Active,2000,0.09,21-30,Medium Risk
+7,40,M,Nonthaburi,107,Life,45000,Active,0,0,31-40,No Claim
+8,33,M,Bangkok,108,Auto,16000,Lapsed,0,0,31-40,No Claim
+9,55,F,Chiang Mai,109,Health,35000,Active,15000,0.43,51+,Medium Risk
+10,27,M,Phuket,110,Auto,17500,Active,4000,0.23,21-30,Medium Risk
